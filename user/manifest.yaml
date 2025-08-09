@@ -40,7 +40,7 @@ spec:
     spec:
       containers:
       - name: user
-        image: joindevops/user:v1
+        image: suresh228devops/user:v1
         resources:
           requests:
             cpu: "50m"

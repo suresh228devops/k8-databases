@@ -39,7 +39,7 @@ spec:
     spec:
       containers:
       - name: shipping
-        image: joindevops/shipping:v1
+        image: suresh228devops/shipping:v1
         resources:
           requests:
             cpu: "100m"

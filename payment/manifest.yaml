@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
       - name: payment
-        image: joindevops/payment:v1
+        image: suresh228devops/payment:v1
         resources:
           requests:
             cpu: "50m"
